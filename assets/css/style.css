@@ -1,0 +1,28 @@
+
+.jumbotron {
+    margin-bottom: auto;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    margin-right: 15px;
+    margin-left: 15px;
+    text-align: center;
+    background-color: deepskyblue;
+
+}
+
+
+.btn {
+    margin: 10px;
+    background-color: coral;
+    border-color: deepskyblue;
+
+}
+
+p {
+    color: black;
+
+}
+
+body {
+    background-color: floralwhite;
+}
